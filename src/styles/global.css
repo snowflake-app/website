@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body, #___gatsby, #gatsby-focus-wrapper {
+    height: 100%;
+}
+
 body {
     font-family: 'Inter', sans-serif;
 }

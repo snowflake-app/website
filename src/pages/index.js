@@ -5,11 +5,11 @@ export default function Home() {
     return (
         <Layout>
             <div className="sm:text-center lg:text-left">
-                <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
+                <h1 className="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
                     Your organization is
                     <br/>
                     <span className="text-indigo-600">unique</span>
-                </h2>
+                </h1>
                 <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                     Empower your teams to perform, encourage and share. Align your goals and drive engagement,
                     especially in the times of change.
